@@ -1,8 +1,6 @@
-# yylifen's homepage
+# yylifen
 
-----
-
-Developing...
+yylifen's homepage is developing...
 
 <div>
     <script>
