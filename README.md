@@ -2,15 +2,12 @@
 
 yylifen's homepage is developing...
 
-<div>
-    <script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?4f01de5cc0f84f20fea5a4202233614f";
-        var s = document.getElementsByTagName("script")[0]; 
-        s.parentNode.insertBefore(hm, s);
-        _hmt.push(['_trackEvent', '个人主页', '开发中', 1]);
-    })();
-    </script>
-</div>
+==================================================
+
+### 目前个人可阅读的翻译书籍列表
+
++ [图像优化自动化](https://github.com/yylifen/images.guide)
+
++ [前端开发者手册2019](https://yylifen.github.io/front-end-handbook-2019/index.html)
+
+
