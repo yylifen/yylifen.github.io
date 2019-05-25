@@ -1,11 +1,10 @@
-<style>a{font-weight: bold;position:relative;z-index:2;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{font-weight: normal;color: #fff; border-bottom: 1px solid #da1b60!important;}</style>
-
+<style>a{position:relative;z-index:2;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #000; border-bottom: 1px solid #da1b60!important;}.markdown-body h1{border:0;}</style>
 
 ## About Me
 
 ### Who am I?
 
-+ freedom
++ **freedom**
 
     日常生活昵称，不是因为自由而叫freedom，此昵称来源于1995年西雅图电影节上映的一部美国电影[《勇敢的心》](https://movie.douban.com/subject/1294639/)。
 

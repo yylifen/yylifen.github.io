@@ -1,6 +1,7 @@
-<style>html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff}a{font-weight: bold;position:relative;z-index:2;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{font-weight: normal;color: #fff; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
+<style>a{position:relative;z-index:2;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #fff; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
 <style>#bg { position: absolute; left: 0; top: 0;z-index:1;}</style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.4.9/css-doodle.min.js"></script>
+<!-- html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff} -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.4.9/css-doodle.min.js"></script>
 <div id="bg">
      <css-doodle>
     :doodle {
@@ -29,7 +30,7 @@
         100% { transform: scale(@r(1, 2, .1)) rotateZ(45deg) translateZ(100vmin); opacity: 0; }
     }
     </css-doodle>
-</div>
+</div> -->
 
 
 
