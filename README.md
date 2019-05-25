@@ -1,3 +1,40 @@
+<style>html, body { height: 100%; width: 100%;margin: 0; background: #000; overflow: hidden;}</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.4.9/css-doodle.min.js"></script>
+<css-doodle>
+  :doodle {
+    @grid: 100 / 50vmin;
+    perspective: 5vmin;
+    transform: scale(.6) translateY(-50%);
+  }
+  :container {
+    transform-origin: center;
+    transform-style: preserve-3d;
+  }
+  
+  @size: 10vmin;
+  :after, :before {
+    content: '*';
+  font-size: 250%;
+    @size: 50%;
+    transform-style: preserve-3d;
+    color: @p(#00b8a9, #f8f3d4, #f6416c, #ffde7d);
+    animation: move @r(14s, 16s, 1.1) linear infinite;
+    animation-delay: calc(@i() * -1s);
+  } 
+  
+  @keyframes sway {
+    0% { transform: rotateX(45deg) rotate(45deg) rotateZ(0); }
+    100% { transform: rotateX(45deg) rotate(45deg) rotateZ(1turn); }
+  }
+  
+  @keyframes move {
+    0% { transform: scale(0) rotateZ(45deg) translateZ(0vmin); opacity: 0; }
+    20%, 90% { opacity: 1; }
+    50% { transform: scale(1) rotateZ(45deg) translateZ(-20vmin); }
+    100% { transform: scale(@r(1, 2, .1)) rotateZ(45deg) translateZ(100vmin); opacity: 0; }
+  }
+</css-doodle>
+
 **yylifen's homepage is developing...**
 
 ### 可阅读的翻译书籍
@@ -18,7 +55,7 @@
 + 【2019-06-？】[MIX CLI](https://yylifen.github.io/mix-cli/)(开发中……)
 
 
-### 
+### 过去现在未来
 
 + 【1993-06至2006-02】空白。
 
@@ -33,3 +70,4 @@
 + 【20??-??至20??-??] 走不动了，就做个独立的闲人，读读诗词，写写字...
 
 ……
+
