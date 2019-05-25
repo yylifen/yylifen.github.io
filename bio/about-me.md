@@ -2,7 +2,7 @@
 
 ## About Me
 
-### *Who am I?
+### Who am I?
 
 + [freedom](https://www.yuque.com/ysfe)
 
@@ -12,7 +12,7 @@
 
     日常工作昵称，以前很不喜欢lifen这个名字，所以才一直是freedom了十几年，但是9102想整理一下个人的工作和业余输出，任何一个和freedom这种专有名次挂钩的都已经被占用，yylifen也挺符合现在。
 
-### *Other information?
+### Other information?
 
 + YY程序媛（Without code, life may be a mistake.）
 
@@ -52,7 +52,7 @@
         transform-style: preserve-3d;
         color: @p(#eeb8a9, #05ffd4, #0ff16c, #ddbe7d);
         animation: move @r(40s, 80s, .5) linear infinite;
-        animation-delay: calc(@i() * -1s);
+        animation-delay: calc(@i() -1s);
     } 
     @keyframes move {
         0% { transform: scale(0) rotateZ(45deg) translateZ(0vmin); opacity: 0; }
