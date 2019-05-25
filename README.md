@@ -1,4 +1,4 @@
-<style>html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff} a { color: transparent;     background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text; border-bottom: 1px solid #da1b60!important;}a:hover {color: #fff;border-bottom: 1px solid #fff!important;}</style>
+<style>html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff}a {font-weight:700; color: #fff; border-bottom: 1px solid #da1b60!important;}a:hover { color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text; border-bottom: 1px solid #fff!important;}</style>
 <style>#bg { position: absolute; left: 0; top: 0;}</style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.4.9/css-doodle.min.js"></script>
 <div id="bg">
