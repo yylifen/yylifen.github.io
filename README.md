@@ -1,10 +1,10 @@
-<style>html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff}a {font-weight:700; color: #fff; border-bottom: 1px solid #da1b60!important;}a:hover { color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text; border-bottom: 1px solid #fff!important;}</style>
+<style>html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff}a{color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #fff; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
 <style>#bg { position: absolute; left: 0; top: 0;}</style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.4.9/css-doodle.min.js"></script>
 <div id="bg">
-    <css-doodle>
+     <css-doodle>
     :doodle {
-        @grid: 10 / 5vmin;
+        @grid: 25 / 25vmin;
         perspective: 5vmin;
         transform: scale(.6) translateY(-50%);
     }
@@ -18,14 +18,10 @@
     font-size: 250%;
         @size: 50%;
         transform-style: preserve-3d;
-        color: @p(#00b8a9, #f8f3d4, #f6416c, #ffde7d);
-        animation: move @r(14s, 16s, 1.1) linear infinite;
+        color: @p(#eeb8a9, #05ffd4, #0ff16c, #ddbe7d);
+        animation: move @r(40s, 80s, .5) linear infinite;
         animation-delay: calc(@i() * -1s);
     } 
-    @keyframes sway {
-        0% { transform: rotateX(45deg) rotate(45deg) rotateZ(0); }
-        100% { transform: rotateX(45deg) rotate(45deg) rotateZ(1turn); }
-    }
     @keyframes move {
         0% { transform: scale(0) rotateZ(45deg) translateZ(0vmin); opacity: 0; }
         20%, 90% { opacity: 1; }
