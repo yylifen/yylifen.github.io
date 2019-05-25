@@ -1,4 +1,4 @@
-<style>a{position:relative;z-index:2;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #000; border-bottom: 1px solid #da1b60!important;}.markdown-body h1{border:0;}</style>
+<style>a{font-weight:bold;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #000; border-bottom: 1px solid #da1b60!important;}.markdown-body h1{border:0;}</style>
 
 ## About Me
 
@@ -29,6 +29,39 @@
 ……
 
 <!-- ### 和Code的缘分 -->
+
+
+<!-- html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff} -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.4.9/css-doodle.min.js"></script>
+<div id="bg">
+     <css-doodle>
+    :doodle {
+        @grid: 25 / 25vmin;
+        perspective: 5vmin;
+        transform: scale(.6) translateY(-50%);
+    }
+    :container {
+        transform-origin: center;
+        transform-style: preserve-3d;
+    }
+    @size: 10vmin;
+    :after, :before {
+        content: '*';
+    font-size: 250%;
+        @size: 50%;
+        transform-style: preserve-3d;
+        color: @p(#eeb8a9, #05ffd4, #0ff16c, #ddbe7d);
+        animation: move @r(40s, 80s, .5) linear infinite;
+        animation-delay: calc(@i() * -1s);
+    } 
+    @keyframes move {
+        0% { transform: scale(0) rotateZ(45deg) translateZ(0vmin); opacity: 0; }
+        20%, 90% { opacity: 1; }
+        50% { transform: scale(1) rotateZ(45deg) translateZ(-20vmin); }
+        100% { transform: scale(@r(1, 2, .1)) rotateZ(45deg) translateZ(100vmin); opacity: 0; }
+    }
+    </css-doodle>
+</div> -->
 
 
 

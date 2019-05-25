@@ -1,42 +1,9 @@
-<style>a{position:relative;z-index:2;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #fff; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
+<style>a{font-weight:bold;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #000; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
 <style>#bg { position: absolute; left: 0; top: 0;z-index:1;}</style>
-<!-- html, body { height: 100%; width: 100%;margin: 0; background: #000; color: #fff} -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.4.9/css-doodle.min.js"></script>
-<div id="bg">
-     <css-doodle>
-    :doodle {
-        @grid: 25 / 25vmin;
-        perspective: 5vmin;
-        transform: scale(.6) translateY(-50%);
-    }
-    :container {
-        transform-origin: center;
-        transform-style: preserve-3d;
-    }
-    @size: 10vmin;
-    :after, :before {
-        content: '*';
-    font-size: 250%;
-        @size: 50%;
-        transform-style: preserve-3d;
-        color: @p(#eeb8a9, #05ffd4, #0ff16c, #ddbe7d);
-        animation: move @r(40s, 80s, .5) linear infinite;
-        animation-delay: calc(@i() * -1s);
-    } 
-    @keyframes move {
-        0% { transform: scale(0) rotateZ(45deg) translateZ(0vmin); opacity: 0; }
-        20%, 90% { opacity: 1; }
-        50% { transform: scale(1) rotateZ(45deg) translateZ(-20vmin); }
-        100% { transform: scale(@r(1, 2, .1)) rotateZ(45deg) translateZ(100vmin); opacity: 0; }
-    }
-    </css-doodle>
-</div> -->
-
-
 
 **yylifen's homepage is developing...**
 
-### 可阅读的翻译书籍
+#### 可阅读的翻译书籍
 
 + 【2019-03-06】[图像优化自动化](https://yylifen.github.io/images.guide/)
 
@@ -44,17 +11,17 @@
 
 + 【2019-05-22】[色彩：从十六进制编码到眼球](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/)
 
-### 可阅读的翻译文章
+#### 可阅读的翻译文章
 
 + 【2019-03-24】[如何说服你的团队采用CSS Grid](https://yylifen.github.io/sundries-trans/other/how-to-convince-your-team-to-adopt-grid/ch.html)
 
 
-### 即将开源作品
+#### 即将开源作品
 
 + 【2019-06-？】[MIX CLI](https://yylifen.github.io/mix-cli/)(开发中……)
 
 
-### 过去现在未来
+#### 过去现在未来
 
 + 【1993-06至2006-02】空白。
 
@@ -69,4 +36,5 @@
 + 【20??-??至20??-??] 走不动了，就做个独立的闲人，读读诗词，写写字...
 
 ……
+
 
