@@ -1,7 +1,6 @@
 <style>a{font-weight:bold;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #000; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
 <style>#bg { position: absolute; left: 0; top: 0;z-index:1;}</style>
 
-> yylifen's homepage is developing...
 
 #### *可阅读的翻译书籍
 
@@ -36,5 +35,8 @@
 + 【20??-??至20??-??] 走不动了，就做个独立的闲人，读读诗词，写写字...
 
 ……
+
+
+> *Note: yylifen's homepage is developing...*
 
 
