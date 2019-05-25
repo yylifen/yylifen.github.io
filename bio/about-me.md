@@ -4,7 +4,7 @@
 
 ### *Who am I?
 
-+ **freedom**
++ [freedom](https://www.yuque.com/ysfe)
 
     日常生活昵称，不是因为自由而叫freedom，此昵称来源于1995年西雅图电影节上映的一部美国电影[《勇敢的心》](https://movie.douban.com/subject/1294639/)。
 
