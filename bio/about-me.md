@@ -10,7 +10,7 @@
 
 + [yylifen](https://github.com/yylifen)
 
-    日常工作昵称，以前很不喜欢lifen这个名字，所以才一直是freedom了十几年，但是9102想整理一下个人的工作和业余输出，任何一个和freedom这种专有名次挂钩的都已经被占用，yylifen也挺符合现在。
+    日常工作昵称，以前很不喜欢lifen这个名字，所以才一直是freedom了十几年，但是9102想整理一下个人的工作和业余输出，任何一个和freedom这种专有名词挂钩的都已经被占用，yylifen也挺符合现在。
 
 ### Other information?
 
