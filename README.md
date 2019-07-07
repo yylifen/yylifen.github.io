@@ -14,6 +14,11 @@
 
 + 【2019-03-24】[如何说服你的团队采用CSS Grid](https://yylifen.github.io/sundries-trans/other/how-to-convince-your-team-to-adopt-grid/ch.html)
 
++ 【2019-06-16】[你可能不需要ReCAPTCHA](https://yylifen.github.io/sundries-trans/other/you-probably-dont-need-recaptcha/ch.html)
+
++ 【2019-07-07】[JavaScript性能优化之2019](https://yylifen.github.io/sundries-trans/js/cost-of-javascript-2019/ch.html)
+
+
 
 #### 即将开源作品
 
