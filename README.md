@@ -3,7 +3,7 @@
  * @Author: freedom(lifen@yy.com)
  * @Date: 2019-06-27 14:06:47
  * @LastEditors: freedom(lifen@yy.com)
- * @LastEditTime: 2019-08-13 22:00:30
+ * @LastEditTime: 2019-08-13 22:05:21
  -->
 <style>a{font-weight:bold;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #000; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
 <style>#bg { position: absolute; left: 0; top: 0;z-index:1;}</style>
@@ -19,17 +19,17 @@
 
 #### 可阅读的翻译文章
 
-+ 【2019-03-24】[如何说服你的团队采用CSS Grid](https://yylifen.github.io/sundries-trans/other/how-to-convince-your-team-to-adopt-grid/ch.html)
++ 【2019-03-24】[如何说服你的团队采用CSS Grid](https://yylifen.github.io/sundries-trans/css/how-to-convince-your-team-to-adopt-grid/ch.html)
 
 + 【2019-06-16】[你可能不需要ReCAPTCHA](https://yylifen.github.io/sundries-trans/other/you-probably-dont-need-recaptcha/ch.html)
 
 + 【2019-07-07】[JavaScript性能优化之2019](https://yylifen.github.io/sundries-trans/js/cost-of-javascript-2019/ch.html)
 
-+ 【2019-08-07】[为什么需要React Hooks?](https://yylifen.github.io/sundries-trans/js/why-react-hooks/ch.md)
++ 【2019-08-07】[为什么需要React Hooks?](https://yylifen.github.io/sundries-trans/js/why-react-hooks/ch.html)
 
-+ 【2019-08-08】[React虚拟DOM原理追踪(动画教程)](https://yylifen.github.io/sundries-trans/js/react-virtual-dom-postmortem/ch.md)
++ 【2019-08-08】[React虚拟DOM原理追踪(动画教程)](https://yylifen.github.io/sundries-trans/js/react-virtual-dom-postmortem/ch.html)
 
-+ 【2019-08-12】[像@keyframes和@media这样的@rule有多特别](https://yylifen.github.io/sundries-trans/css/how-much-specificity-do-rules-have-like-keyframes-and-media/ch.md)
++ 【2019-08-12】[像@keyframes和@media这样的@rule有多特别](https://yylifen.github.io/sundries-trans/css/how-much-specificity-do-rules-have-like-keyframes-and-media/ch.html)
 
 
 
