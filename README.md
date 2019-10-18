@@ -8,31 +8,35 @@
 <style>a{font-weight:bold;color: transparent; background: linear-gradient(to right,#ff8a00,#da1b60);-webkit-background-clip: text;}a:hover{color: #000; border-bottom: 1px solid #da1b60!important;}body .markdown-body h1{border:0;}</style>
 <style>#bg { position: absolute; left: 0; top: 0;z-index:1;}</style>
 
+#### 可阅读的参会总结
+
++ 【2019-10-13】[第五届FEDAY参会总结](https://yylifen.github.io/FEConference/feday5/ch.html)
 
 #### 可阅读的翻译书籍
 
-+ 【2019-03-06】[图像优化自动化](https://yylifen.github.io/images.guide/)
-
-+ 【2019-05-05】[前端开发者手册2019](https://yylifen.github.io/front-end-handbook-2019/)
++ 【2019-09-27】[设计系统编程](https://yylifen.github.io/programming-design-systems/)
 
 + 【2019-05-22】[色彩：从十六进制编码到眼球](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/)
 
++ 【2019-05-05】[前端开发者手册2019](https://yylifen.github.io/front-end-handbook-2019/)
+
++ 【2019-03-06】[图像优化自动化](https://yylifen.github.io/images.guide/)
+
 #### 可阅读的翻译文章
 
-+ 【2019-03-24】[如何说服你的团队采用CSS Grid](https://yylifen.github.io/sundries-trans/css/how-to-convince-your-team-to-adopt-grid/ch.html)
-
-+ 【2019-06-16】[你可能不需要ReCAPTCHA](https://yylifen.github.io/sundries-trans/other/you-probably-dont-need-recaptcha/ch.html)
-
-+ 【2019-07-07】[JavaScript性能优化之2019](https://yylifen.github.io/sundries-trans/js/cost-of-javascript-2019/ch.html)
-
-+ 【2019-08-07】[为什么需要React Hooks?](https://yylifen.github.io/sundries-trans/js/why-react-hooks/ch.html)
-
-+ 【2019-08-08】[React虚拟DOM原理追踪(动画教程)](https://yylifen.github.io/sundries-trans/js/react-virtual-dom-postmortem/ch.html)
++ 【2019-10-05】[CSS Houdini和样式的未来@JS Conf 2019](https://yylifen.github.io/2019.jsconf/speakers/UnaKravets.html)
 
 + 【2019-08-12】[像@keyframes和@media这样的@rule有多特别](https://yylifen.github.io/sundries-trans/css/how-much-specificity-do-rules-have-like-keyframes-and-media/ch.html)
 
++ 【2019-08-08】[React虚拟DOM原理追踪(动画教程)](https://yylifen.github.io/sundries-trans/js/react-virtual-dom-postmortem/ch.html)
 
++ 【2019-08-07】[为什么需要React Hooks?](https://yylifen.github.io/sundries-trans/js/why-react-hooks/ch.html)
 
++ 【2019-07-07】[JavaScript性能优化之2019](https://yylifen.github.io/sundries-trans/js/cost-of-javascript-2019/ch.html)
+
++ 【2019-06-16】[你可能不需要ReCAPTCHA](https://yylifen.github.io/sundries-trans/other/you-probably-dont-need-recaptcha/ch.html)
+
++ 【2019-03-24】[如何说服你的团队采用CSS Grid](https://yylifen.github.io/sundries-trans/css/how-to-convince-your-team-to-adopt-grid/ch.html)
 
 #### 即将开源作品
 
